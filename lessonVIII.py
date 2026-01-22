@@ -11,7 +11,6 @@ def exampleOne():
     atuple = (1, 2, 3)
     print(atuple[1])
 
-
 #Examples---------------------------
 def exampleTwo():
     print("\nExample Two:")
@@ -66,7 +65,6 @@ def exampleFive():
     print(cset)
     #----------------
 
-    
 #==================================================================
 # Comment and uncomment as you please to explore specific examples!
 exampleOne()
